@@ -1,3 +1,8 @@
+<img width="1108" alt="Screen Shot 2023-09-07 at 5 11 27 PM" src="https://github.com/Pruthvik16/pizza-analysis-mySQL-PowerBI/assets/133834420/1387f90c-4ca4-4231-a2ae-ef2f05a44112">
+
+
+
+
 # pizza-analysis-mySQL-PowerBI
 This GitHub project aims to provide a comprehensive analysis of a pizza store's sales data using MySQL and PowerBI. The project includes data preprocessing, SQL queries for data extraction, transformation, and visualization of key performance indicators (KPIs) related to the pizza store's sales and product performance.
 # Pizza Store Data Analysis Project
